@@ -1,0 +1,10 @@
+C:\Users\basma\source\repos\Employees\Employees\bin\Debug\Employees.exe.config
+C:\Users\basma\source\repos\Employees\Employees\bin\Debug\Employees.exe
+C:\Users\basma\source\repos\Employees\Employees\bin\Debug\Employees.pdb
+C:\Users\basma\source\repos\Employees\Employees\obj\Debug\Employees.csprojAssemblyReference.cache
+C:\Users\basma\source\repos\Employees\Employees\obj\Debug\Employees.frmEmployee.resources
+C:\Users\basma\source\repos\Employees\Employees\obj\Debug\Employees.Properties.Resources.resources
+C:\Users\basma\source\repos\Employees\Employees\obj\Debug\Employees.csproj.GenerateResource.cache
+C:\Users\basma\source\repos\Employees\Employees\obj\Debug\Employees.csproj.CoreCompileInputs.cache
+C:\Users\basma\source\repos\Employees\Employees\obj\Debug\Employees.exe
+C:\Users\basma\source\repos\Employees\Employees\obj\Debug\Employees.pdb
